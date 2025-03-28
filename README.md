@@ -59,6 +59,6 @@ It manages user accounts and groups. Users are individual accounts, while groups
 <img src="https://i.imgur.com/IZKGzXN.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Wireshark capturing network packets, decoding them, and displaying the details in a human-readable format. It works at the data link layer (Layer 2) and higher in the OSI model, meaning it can capture everything from Ethernet frames to application-layer protocols like HTTP, DNS, FTP, and more, Once captured, Wireshark decodes the packet's data based on the protocol (e.g., TCP, IP, HTTP, etc.), and shows it in a detailed, layered format.
 </p>
 
