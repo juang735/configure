@@ -51,7 +51,7 @@ This tutorial outlines the implementation of on-premises Active Directory within
 <img src="https://i.imgur.com/1S1cS81.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+It manages user accounts and groups. Users are individual accounts, while groups are collections of users that can be managed together for example, assigning permissions to a group of users rather than individually. Group policies are used to enforce security settings and configurations across user and computer accounts. Policies can be applied at various levels, such as domain, site, or organizational unit.
 </p>
 <br />
 
