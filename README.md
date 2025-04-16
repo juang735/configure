@@ -61,3 +61,10 @@ It manages user accounts and groups. Users are individual accounts, while groups
 Wireshark capturing network packets, decoding them, and displaying the details in a human-readable format. It works at the data link layer (Layer 2) and higher in the OSI model, meaning it can capture everything from Ethernet frames to application-layer protocols like HTTP, DNS, FTP, and more, Once captured, Wireshark decodes the packet's data based on the protocol (e.g., TCP, IP, HTTP, etc.), and shows it in a detailed, layered format.
 </p>
 
+<p>
+<img src="https://i.imgur.com/qx72D5M.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+The ping command is used to test the connection between your computer and another device (like a website or server) on a network. It sends small packets of data and measures how long it takes to get a response. If the device responds, it means the connection is working; if not, there might be a network issue. It's a quick way to check if something is online and how fast the connection is.
+</p>
+
